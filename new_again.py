@@ -1,3 +1,4 @@
 print('what is this again?')
-a  = ' whats your name?'
 print(a)
+a  = ' whats your name?'
+print('welcome to git')
